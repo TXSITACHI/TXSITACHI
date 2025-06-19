@@ -27,7 +27,8 @@ I'm a frontend and backend developer who loves turning ideas into accessible, we
 ### 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-TXSITACHI-181717?logo=github&style=flat)](https://github.com/TXSITACHI)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush_Dev-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/aayush-dev-044374305/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush_Dev-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/aayush-dev-044374305/)  
+[![Figma](https://img.shields.io/badge/Figma-Aayush_Dev-F24E1E?logo=figma&logoColor=white&style=flat)](https://www.figma.com/@aayushdev)
 
 ---
 
