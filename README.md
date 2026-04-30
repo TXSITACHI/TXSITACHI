@@ -40,8 +40,7 @@ I'm a frontend and backend developer who loves turning ideas into accessible, we
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TXSITACHI/TXSITACHI/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TXSITACHI/TXSITACHI/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TXSITACHI/TXSITACHI/output/github-contribution-grid-snake.svg"/>
-</picture>
+
 
 ---
 
