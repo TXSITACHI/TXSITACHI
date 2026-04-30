@@ -35,14 +35,6 @@ I'm a frontend and backend developer who loves turning ideas into accessible, we
 
 ---
 
-## 📈 Contribution graph  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TXSITACHI/TXSITACHI/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TXSITACHI/TXSITACHI/output/github-contribution-grid-snake.svg"/>
-
-
----
 
 ### 📫 Let's Connect  
 
