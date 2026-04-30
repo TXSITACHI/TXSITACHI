@@ -23,28 +23,29 @@ I'm a frontend and backend developer who loves turning ideas into accessible, we
 ![Uizard](https://img.shields.io/badge/-Uizard-7952B3?style=flat&logo=uizard&logoColor=white)
 
 ---
-## 📊 GitHub stats
+## 📊 GitHub stats  
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TXSITACHI&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=TXSITACHI&theme=dark&hide_border=true&background=0d1117"/>
+</p>
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devashmit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=devashmit&theme=dark&hide_border=true&background=0d1117"/>
-</p>
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashmit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TXSITACHI&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
 
-## 📈 Contribution graph
+## 📈 Contribution graph  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devashmit/devashmit/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devashmit/devashmit/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/devashmit/devashmit/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TXSITACHI/TXSITACHI/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TXSITACHI/TXSITACHI/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TXSITACHI/TXSITACHI/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 ---
-### 📫 Let's Connect
+
+### 📫 Let's Connect  
 
 [![GitHub](https://img.shields.io/badge/GitHub-TXSITACHI-181717?logo=github&style=flat)](https://github.com/TXSITACHI)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush_Dev-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/aayush-dev-044374305/)  
